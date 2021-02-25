@@ -1,0 +1,22 @@
+.pd-container{
+    display: flex;
+    border-bottom: 1px solid gray;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+    margin-right: 10px;
+}
+.pd-title{
+    color: blue;
+    font-weight: 600;
+}
+.pd-details{
+    margin-left: 10px;
+}
+.main-btn{
+    background-color: goldenrod;
+    border: 1px solid lightgrey;
+    height: 35px;
+    width: 150px;
+    border-radius: 5px;
+    cursor: pointer;
+}
